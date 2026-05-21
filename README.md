@@ -370,6 +370,7 @@ Excel • Power BI • Tableau • Spreadsheet
 
 <br/>
 
+
 <!-- ── Section 6: Interactive Charts ── -->
 
 <table align="center" width="100%">
@@ -385,7 +386,7 @@ Excel • Power BI • Tableau • Spreadsheet
     <tr>
 
       <!-- Chord Diagram -->
-      <td align="center" width="33%">
+<td align="center" width="33%">
         <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/html/10_project_chord.html" target="_blank">
           <img src="https://img.shields.io/badge/🕸️%20Project%20Chord-Explore%20Interactive-a855f7?style=for-the-badge&labelColor=0d1117"/>
         </a>
@@ -443,7 +444,6 @@ Interactive visualizations powered by GitHub Pages • Open in new tab
 </i>
 
 </p>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
