@@ -372,6 +372,8 @@ Excel • Power BI • Tableau • Spreadsheet
 
 <!-- ── Section 6: Interactive Charts ── -->
 
+<!-- ── Section 6: Interactive Charts ── -->
+
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -380,37 +382,69 @@ Excel • Power BI • Tableau • Spreadsheet
       </th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
+
+      <!-- Chord Diagram -->
       <td align="center" width="33%">
-        <kbd>
-          <a href="https://github.com/bhaskarpal1707/my-portfolio-analytics/blob/main/assets/html/10_project_chord.html">
-            <img src="https://img.shields.io/badge/🔗%20Project%20Chord%20Diagram-Click%20to%20Explore-a855f7?style=for-the-badge&labelColor=0d1117" alt="Project Chord Diagram"/>
-          </a>
-        </kbd>
-        <br/><sub><b>Project Chord Diagram</b></sub>
+        <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/html/10_project_chord.html" target="_blank">
+          <img src="https://img.shields.io/badge/🕸️%20Project%20Chord-Explore%20Interactive-a855f7?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+
+<br/>
+
+<sub>
+Visual relationship between projects & technologies
+</sub>
+
       </td>
+
+
+      <!-- Sankey -->
       <td align="center" width="33%">
-        <kbd>
-          <a href="https://github.com/bhaskarpal1707/my-portfolio-analytics/blob/main/assets/html/11_sankey_chart.html">
-            <img src="https://img.shields.io/badge/🔗%20Sankey%20Flow%20Chart-Click%20to%20Explore-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Sankey Flow Chart"/>
-          </a>
-        </kbd>
-        <br/><sub><b>Sankey Flow Chart</b></sub>
+
+        <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/html/11_sankey_chart.html" target="_blank">
+          <img src="https://img.shields.io/badge/🌊%20Sankey%20Flow-Explore%20Interactive-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+
+<br/>
+
+<sub>
+Flow of skills, tools & domains
+</sub>
+
       </td>
+
+
+      <!-- Sunburst -->
       <td align="center" width="33%">
-        <kbd>
-          <a href="https://github.com/bhaskarpal1707/my-portfolio-analytics/blob/main/assets/html/12_sunburst_chart.html">
-            <img src="https://img.shields.io/badge/🔗%20Sunburst%20Hierarchy-Click%20to%20Explore-f97316?style=for-the-badge&labelColor=0d1117" alt="Sunburst Hierarchy"/>
-          </a>
-        </kbd>
-        <br/><sub><b>Sunburst Hierarchy</b></sub>
+
+        <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/html/12_sunburst_chart.html" target="_blank">
+          <img src="https://img.shields.io/badge/☀️%20Sunburst%20Hierarchy-Explore%20Interactive-f97316?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+
+<br/>
+
+<sub>
+Hierarchical portfolio breakdown
+</sub>
+
       </td>
+
     </tr>
   </tbody>
 </table>
 
 <br/>
+
+<p align="center">
+
+<i>
+Interactive visualizations powered by GitHub Pages • Open in new tab
+</i>
+
+</p>
 
 ---
 
