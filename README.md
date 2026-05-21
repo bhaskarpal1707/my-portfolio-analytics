@@ -384,7 +384,7 @@ Excel • Power BI • Tableau • Spreadsheet
     <tr>
       <td align="center" width="33%">
         <kbd>
-          <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/charts/10_project_chord.html">
+          <a href="/my-portfolio-analytics/assets/charts/10_project_chord.html">
             <img src="https://img.shields.io/badge/🔗%20Project%20Chord%20Diagram-Click%20to%20Explore-a855f7?style=for-the-badge&labelColor=0d1117" alt="Project Chord Diagram"/>
           </a>
         </kbd>
