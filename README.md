@@ -372,8 +372,6 @@ Excel • Power BI • Tableau • Spreadsheet
 
 <!-- ── Section 6: Interactive Charts ── -->
 
-<!-- ── Section 6: Interactive Charts ── -->
-
 <table align="center" width="100%">
   <thead>
     <tr>
