@@ -373,6 +373,8 @@ Excel • Power BI • Tableau • Spreadsheet
 
 <!-- ── Section 6: Interactive Charts ── -->
 
+<!-- ── Section 6: Interactive Charts ── -->
+
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -381,54 +383,34 @@ Excel • Power BI • Tableau • Spreadsheet
       </th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
 
       <!-- Chord Diagram -->
-<td align="center" width="33%">
+      <td align="center" width="33%">
         <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/html/10_project_chord.html" target="_blank">
           <img src="https://img.shields.io/badge/🕸️%20Project%20Chord-Explore%20Interactive-a855f7?style=for-the-badge&labelColor=0d1117"/>
         </a>
-
-<br/>
-
-<sub>
-Visual relationship between projects & technologies
-</sub>
-
+        <br/>
+        <sub>Visual relationship between projects & technologies</sub>
       </td>
-
 
       <!-- Sankey -->
       <td align="center" width="33%">
-
         <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/html/11_sankey_chart.html" target="_blank">
           <img src="https://img.shields.io/badge/🌊%20Sankey%20Flow-Explore%20Interactive-00d4ff?style=for-the-badge&labelColor=0d1117"/>
         </a>
-
-<br/>
-
-<sub>
-Flow of skills, tools & domains
-</sub>
-
+        <br/>
+        <sub>Flow of skills, tools & domains</sub>
       </td>
-
 
       <!-- Sunburst -->
       <td align="center" width="33%">
-
         <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/html/12_sunburst_chart.html" target="_blank">
           <img src="https://img.shields.io/badge/☀️%20Sunburst%20Hierarchy-Explore%20Interactive-f97316?style=for-the-badge&labelColor=0d1117"/>
         </a>
-
-<br/>
-
-<sub>
-Hierarchical portfolio breakdown
-</sub>
-
+        <br/>
+        <sub>Hierarchical portfolio breakdown</sub>
       </td>
 
     </tr>
@@ -438,11 +420,7 @@ Hierarchical portfolio breakdown
 <br/>
 
 <p align="center">
-
-<i>
-Interactive visualizations powered by GitHub Pages • Open in new tab
-</i>
-
+  <i>Interactive visualizations powered by GitHub Pages • Open in new tab</i>
 </p>
 ---
 
