@@ -384,7 +384,7 @@ Excel • Power BI • Tableau • Spreadsheet
     <tr>
       <td align="center" width="33%">
         <kbd>
-          <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/charts/10_project_chord.html">
+          <a href="https://github.com/bhaskarpal1707/my-portfolio-analytics/blob/main/assets/html/10_project_chord.html">
             <img src="https://img.shields.io/badge/🔗%20Project%20Chord%20Diagram-Click%20to%20Explore-a855f7?style=for-the-badge&labelColor=0d1117" alt="Project Chord Diagram"/>
           </a>
         </kbd>
@@ -392,7 +392,7 @@ Excel • Power BI • Tableau • Spreadsheet
       </td>
       <td align="center" width="33%">
         <kbd>
-          <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/charts/11_sankey_chart.html">
+          <a href="https://github.com/bhaskarpal1707/my-portfolio-analytics/blob/main/assets/html/11_sankey_chart.html">
             <img src="https://img.shields.io/badge/🔗%20Sankey%20Flow%20Chart-Click%20to%20Explore-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Sankey Flow Chart"/>
           </a>
         </kbd>
@@ -400,7 +400,7 @@ Excel • Power BI • Tableau • Spreadsheet
       </td>
       <td align="center" width="33%">
         <kbd>
-          <a href="https://bhaskarpal1707.github.io/my-portfolio-analytics/assets/charts/12_sunburst_chart.html">
+          <a href="https://github.com/bhaskarpal1707/my-portfolio-analytics/blob/main/assets/html/12_sunburst_chart.html">
             <img src="https://img.shields.io/badge/🔗%20Sunburst%20Hierarchy-Click%20to%20Explore-f97316?style=for-the-badge&labelColor=0d1117" alt="Sunburst Hierarchy"/>
           </a>
         </kbd>
